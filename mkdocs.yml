@@ -5,8 +5,8 @@ site_author: Simone Bifani
 site_name: Simone Bifani
 site_description: Home Page
 
-#repo_name: GitLab
-#repo_url: https://gitlab.cern.ch/bifani
+repo_name: GitLab
+repo_url: https://gitlab.cern.ch/bifani
 
 pages:
 - Home: index.md

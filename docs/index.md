@@ -19,7 +19,7 @@
 <br>
 [<i class="fa fa-envelope fa-lg" aria-hidden="true"></i>](mailto:simone.bifani@cern.ch)
 [<i class="fa fa-address-card fa-lg" aria-hidden="true"></i>](https://www.birmingham.ac.uk/staff/profiles/physics/bifani-simone.aspx)
-[<i class="fa fa-address-card-o fa-lg" aria-hidden="true"></i>](https://phonebook.cern.ch/phonebook/#personDetails/?id=606832)
+[<i class="fa fa-address-card-o fa-lg" aria-hidden="true"></i>](https://phonebook.cern.ch/search?q=606832)
 [<i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>](https://www.linkedin.com/in/simone-bifani/)
 
 [<i class="ai ai-inspire ai-lg"></i>](https://inspirehep.net/authors/1060779)

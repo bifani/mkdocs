@@ -1,6 +1,6 @@
-#[submodule "mkdocs.cern.ch/docs/academicons"]
-#    path = mkdocs.cern.ch/docs/academicons
-#    url = https://github.com/jpswalsh/academicons
-#[submodule "mkdocs.cern.ch/docs/font-awesome"]
-#    path = mkdocs.cern.ch/docs/font-awesome
-#    url = https://github.com/FortAwesome/Font-Awesome
+[submodule "docs/academicons"]
+    path = docs/academicons
+    url = https://github.com/jpswalsh/academicons
+[submodule "docs/font-awesome"]
+    path = docs/font-awesome
+    url = https://github.com/FortAwesome/Font-Awesome

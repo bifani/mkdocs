@@ -24,7 +24,10 @@ MathJax.Hub.Queue(function() {
 <br>
 ### Employments
 
-- **Research Fellow in Particle Physics**: since February 2013  
+- **Honorary Research Fellow in Particle Physics**: January - December 2021  
+University of Birmingham, School of Physics and Astronomy - Birmingham (United Kingdom)
+
+- **Research Fellow in Particle Physics**: February 2013 - December 2020  
 University of Birmingham, School of Physics and Astronomy - Birmingham (United Kingdom)
 
 - **Postdoctoral Researcher in Particle Physics**: January 2010 - December 2012  
@@ -50,9 +53,9 @@ Thesis: *“Study of the $K_{S,L} \rightarrow \pi\mu\nu$ decay at the NA48/1 exp
 <br>
 ### Professional Experience
 
-- **Representative of the Research Associates of the Particle Physics Group**: University of Birmingham (United Kingdom), since December 2017
+- **Representative of the Research Associates of the Particle Physics Group**: University of Birmingham (United Kingdom), December 2017 - December 2020
 
-- **Internal Reviewer of the LHCb Publications**: since February 2013
+- **Internal Reviewer of the LHCb Publications**: February 2013 - December 2020
 
 - **Co-Convener of the LHCb *"Rare Decays"* Working Group**: January 2018 - December 2019, [www](http://lhcb-conv.web.cern.ch/lhcb-conv/Physics_history_&_Sub-structure.html)
 
@@ -117,17 +120,19 @@ Project: *“Study of the $K_S \rightarrow e^+e^-\gamma$ decay channel and its n
 <br>
 ### Teaching
 
+- **Demonstrator of the Third Year Scientific Computing Undergraduate Laboratory**: University of Birmingham (United Kingdom), October - December 2020
+
 - **Overview Lecture on *"Experimental Tests of Lepton Flavour Universality"* at SLAC Summer Institute**: SLAC National Accelerator Laboratory - Menlo Park, CA (United States), 12 - 23 August 2019, [www](https://conf.slac.stanford.edu/ssi2019/), [slides](https://indico.slac.stanford.edu/event/134/contributions/143/attachments/266/394/ssi_19.pdf)
 
-- **Demonstrator of First Year Computing Undergraduate Laboratory**: University of Birmingham (United Kingdom), September - December 2018
+- **Demonstrator of the First Year Computing Undergraduate Laboratory**: University of Birmingham (United Kingdom), September - December 2018
 
 - **Introductory Lecture on *"Lepton Universality Violation"* at YETI School**: Institute for Particle Physics Phenomenology - Durham (United Kingdom), 7 - 10 January 2018, [www](http://conference.ippp.dur.ac.uk/event/631/), [slides](https://conference.ippp.dur.ac.uk/event/631/sessions/708/attachments/3020/3284/yeti18.pdf)
 
-- **Demonstrator of First Year Computing and Physics Undergraduate Laboratories**: University of Birmingham (United Kingdom), September - December 2013
+- **Demonstrator of the First Year Computing and Physics Undergraduate Laboratories**: University of Birmingham (United Kingdom), September - December 2013
 
 - **Demonstrator of the Fourth Year *"High Energy Particle Physics"* Undergraduate Course**: University College Dublin (Ireland), September - December 2010, 2011
 
-- **Co-Supervisor of PhD and CERN Summer Students**: University of Birmingham (United Kingdom), since April 2013; University College Dublin (Ireland), September 2010 - December 2012; CERN (Switzerland), June - August 2008
+- **Co-Supervisor of PhD and CERN Summer Students**: University of Birmingham (United Kingdom), April 2013 - December 2020; University College Dublin (Ireland), September 2010 - December 2012; CERN (Switzerland), June - August 2008
 
 <br>
 ### Conferences
@@ -232,7 +237,7 @@ Project: *“Study of the $K_S \rightarrow e^+e^-\gamma$ decay channel and its n
 
 **Journal Articles**
 
-[<img src="../_images/inspire.png" height="50">](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20eprint%201909.02957%20or%20eprint%201812.07638%20or%20eprint%201809.06229%20or%20eprint%201808.08865%20or%20eprint%201705.05802%20or%20eprint%201608.01484%20or%20eprint%201607.06495%20or%20eprint%201605.00951%20or%20eprint%201511.08039%20or%20eprint%201505.07024%20or%20eprint%201503.07138%20or%20eprint%201408.4354%20or%20eprint%201402.4334%20or%20eprint%201310.5499%20or%20eprint%201212.4620%20or%20eprint%201212.3131%20or%20eprint%201210.6289%20or%20eprint%201204.1620%20or%20eprint%201004.0494)
+- [<img src="../_images/inspire.png" height="50">](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20eprint%201909.02957%20or%20eprint%201812.07638%20or%20eprint%201809.06229%20or%20eprint%201808.08865%20or%20eprint%201705.05802%20or%20eprint%201608.01484%20or%20eprint%201607.06495%20or%20eprint%201605.00951%20or%20eprint%201511.08039%20or%20eprint%201505.07024%20or%20eprint%201503.07138%20or%20eprint%201408.4354%20or%20eprint%201402.4334%20or%20eprint%201310.5499%20or%20eprint%201212.4620%20or%20eprint%201212.3131%20or%20eprint%201210.6289%20or%20eprint%201204.1620%20or%20eprint%201004.0494)
 
 - **Measurement of the electron reconstruction efficiency at LHCb**, LHCb collaboration, JINST 14 (2019) P11023, [arXiv](http://arxiv.org/abs/1909.02957)
 
