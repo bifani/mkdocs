@@ -17,7 +17,15 @@ MathJax.Hub.Queue(function() {
 </script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+> I joined the LHCb experiment in 2010 and focussed my work on electroweak physics, rare b-hadron decays and lepton universality. I was responsible for the measurements of $W$ and $Z$ boson production during Run-1 and I co-convened the "Electroweak" sub-working group for two years. I tested lepton universality using $B^{0} \rightarrow K^{*0}l^{+}l^{-}$ decays and I co-convened the "Electroweak Penguin Decays" sub-working group for one year. I am currently working on multi-channel tests of lepton universality using $b \rightarrow s l^{+}l^{-}$ transitions and co-convening the "Rare Decays" working group.
+> As a member of the NA48 and NA62 collaborations between 2002 and 2009, I made extensive studies of rare kaon decays: I performed original analyses of the $K_{S,L} \rightarrow \pi^{\mp}\mu^{\pm}\nu$ and $K^\pm \rightarrow \pi^\pm\gamma\gamma$ processes and contributed to the operation and maintenance of the detector.  
+> I published more than 500 journal articles with 3 different international collaborations.
+
+<br>
 ### Employments
+
+- **Honorary Research Fellow in Particle Physics**: January - December 2021  
+University of Birmingham, School of Physics and Astronomy - Birmingham (United Kingdom)
 
 - **Research Fellow in Particle Physics**: February 2013 - December 2020  
 University of Birmingham, School of Physics and Astronomy - Birmingham (United Kingdom)
